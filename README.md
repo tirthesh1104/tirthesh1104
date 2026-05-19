@@ -1,4 +1,5 @@
 # 💫 About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tirthesh Vaijanth Gutte
 🎓 Second Year B.Tech CSE Student at MAEER'S MIT College of Railway Engineering & Research, Barshi<br>💻 Full Stack Junior Developer | Python Developer | AI & Machine Learning <br><br>🚀 DSA with C | Node.js | React.js | Vite.js | Flask | SQL<br>🤖 PyTorch | TensorFlow | Pandas | OpenCV | Django<br><br>☁️ Oracle Cloud Infrastructure (OCI) | Google Cloud Platform (GCP)<br>🔧 Git & GitHub | API Development | Web Development<br><br>🏆 Campus Ambassador at IIT Guwahati, IIT Delhi & IIT Kanpur<br>📜 Oracle OCI AI Foundations Certified | Google Cloud GenAI Certified<br><br>🌐 Passionate about building scalable web applications, AI-powered solutions, and innovative tech projects.
 
 
