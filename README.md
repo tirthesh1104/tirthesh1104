@@ -2,8 +2,8 @@
 **Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tirthesh Vaijanth Gutte**
 
 
-🎓 **Second Year B.Tech CSE Student at MAEER'S MIT College of Railway Engineering & Research, Barshi**<br>**💻 _Full Stack Junior Developer_ **| **_Python Developer_** |** _AI & Machine Learning_** <br><br>🚀 **_DSA with C_** | _**Node.js**_ | _**React.js**_| _**Vite.js**_ |_** Flask**__ _** SQL**|_<br> 
-🤖 **PyTorch **__| **TensorFlow**__ | **Pandas**__ | **OpenCV**__ | **Django**__ <br><br>**☁️ Oracle Cloud Infrastructure (OCI) **__| **Google Cloud Platform (GCP)<br>🔧 Git & GitHub **__| _**API Development**_ |** Web Development**__ <br><br>🏆 Campus Ambassador at **IIT Guwahati**, **IIT Delhi** & **IIT Kanpur** <br>**📜 Oracle OCI AI Foundations Certified**__ |** Google Cloud GenAI Certified**__ <br><br>🌐 Passionate about building scalable web applications, AI-powered solutions, and innovative tech projects.
+🎓 **Second Year B.Tech CSE Student at MAEER'S MIT College of Railway Engineering & Research, Barshi**<br>**💻 _Full Stack Junior Developer_ **| **_Python Developer_** |** _AI & Machine Learning_** <br><br>🚀 **_DSA with C_** | _**Node.js**_ | _**React.js**_| _**Vite.js**_ |_** Flask**_|_** SQL**_| <br> 
+🤖 **_PyTorch **_ | **_TensorFlow**_ | **_Pandas**_ | **_OpenCV**__ | **_Django**_ | <br> <br>**☁️ Oracle Cloud Infrastructure (OCI) **__| **Google Cloud Platform (GCP)<br>🔧 Git & GitHub **_ | _**API Development**_ |** Web Development**_ |  <br><br>🏆 Campus Ambassador at _**IIT Guwahati**_, _**IIT Delhi**_ & **IIT Kanpur** <br>**📜 Oracle OCI AI Foundations Certified**__ |** Google Cloud GenAI Certified**__ <br><br>🌐 Passionate about building scalable web applications, AI-powered solutions, and innovative tech projects.
 
 
 ## 🌐 Socials:
